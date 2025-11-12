@@ -55,20 +55,3 @@ Build the project and run the main controller class (e.g., BMSController.java).
 
 Use the console or GUI (if provided) to interact with the banking system.
 
-## Project Structure
-src/
- ├── entity/
- │     ├── Bank.java  
- │     └── Account.java  
- ├── dao/
- │     ├── BankDao.java  
- │     └── AccountDao.java  
- └── controller/
-       └── BMSController.java  
-
-
-entity package: Defines the persistent classes.
-
-dao package: Data Access Objects for CRUD operations.
-
-controller package: Contains the entry point and coordination logic.
