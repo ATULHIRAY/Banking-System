@@ -54,4 +54,5 @@ Update database configuration as per your environment.
 Build the project and run the main controller class (e.g., BMSController.java).
 
 Use the console or GUI (if provided) to interact with the banking system.
+screenshot - ![Bug]([path/to/image.png](https://github.com/ATULHIRAY/Banking-System/blob/3217ac32dfff761628f93a8514b3e1f3eece2835/Screenshot%202025-11-26%20160219.png))
 
