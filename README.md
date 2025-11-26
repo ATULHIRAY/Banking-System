@@ -55,3 +55,4 @@ Build the project and run the main controller class (e.g., BMSController.java).
 
 Use the console or GUI (if provided) to interact with the banking system.
 [bug](https://github.com/ATULHIRAY/Banking-System/blob/main/Screenshot%202025-11-26%20160219.png?raw=true)
+[bug](https://github.com/ATULHIRAY/Banking-System/blob/main/screenshot/Screenshot%202025-11-26%20134621.png?raw=true)
