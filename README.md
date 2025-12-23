@@ -25,8 +25,7 @@ This is a simple Banking System implemented in Java using Hibernate ORM. It prov
 ## Technologies Used  
 - Language: Java  
 - ORM: Hibernate  
-- Database: (e.g., MySQL / H2 / any relational DB)  
-- Build Tool: (if applicable)  
+- Database: (e.g., MySQL / H2 / any relational DB)   
 - IDE: (e.g., Eclipse, IntelliJ)  
 
 ## Getting Started  
